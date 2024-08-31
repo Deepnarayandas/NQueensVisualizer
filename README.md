@@ -1,1 +1,2 @@
 # NQueensVisualizer
+This project is a Java-based solution for the N-Queens problem, a well-known algorithmic challenge. The program utilizes a backtracking approach to find all possible arrangements of N queens on an N×N chessboard, where no two queens threaten each other. The solution is visualized with a graphical user interface (GUI), allowing users to see the placement of queens on the board. Users can input the size of the board (N), and the program will dynamically solve and display the corresponding N-Queens configuration.
